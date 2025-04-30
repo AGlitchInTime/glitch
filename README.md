@@ -28,3 +28,8 @@ The other won’t even run.
 > and a stubborn loop of logic
 > that probably shouldn’t work,
 > but somehow does.
+>
+> 
+> ## ✨ explore more
+
+- 🛠 [`// skills`](./skills.md)
