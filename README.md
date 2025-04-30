@@ -33,3 +33,6 @@ The other won’t even run.
 > ## ✨ explore more
 
 - 🛠 [`// skills`](./skills.md)
+- 📂 [`// projects`](./projects.md)
+- 📓 [`// glitch.log`](./glitch-log.md)
+- 🎲 [`// fun facts`](./fun-facts.md)
