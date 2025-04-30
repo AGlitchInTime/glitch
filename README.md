@@ -34,5 +34,6 @@ The other won’t even run.
 
 - 🛠 [`// skills`](./skills.md)
 - 📂 [`// projects`](./projects.md)
+- 🌱 [`// wishlist`](./wishlist.md)
 - 📓 [`// glitch.log`](./glitch-log.md)
 - 🎲 [`// fun facts`](./fun-facts.md)
